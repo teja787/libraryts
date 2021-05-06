@@ -1,0 +1,53 @@
+[
+  {
+    "bookName": "elequent js",
+    "authorName": "Marijn Haverbeke",
+    "availableCount": 1,
+    "discription": "hello",
+    "id": 1,
+    "rentInfo": [],
+    "rentedBookCount": 3
+  },
+  {
+    "bookName": "Hello",
+    "authorName": "Hi",
+    "availableCount": 3,
+    "discription": "HIII",
+    "id": 2
+  },
+  {
+    "bookName": "Hw",
+    "authorName": "hh",
+    "availableCount": 1,
+    "discription": " eee",
+    "id": 3
+  },
+  {
+    "bookName": "Hamlet",
+    "authorName": "Shakespear",
+    "availableCount": 100,
+    "discription": "Hooo",
+    "id": 4
+  },
+  {
+    "bookName": "Teja",
+    "authorName": "Teja",
+    "availableCount": 4,
+    "discription": "Hello",
+    "id": 5
+  },
+  {
+    "discription": "Michelle Obama hasn’t always been as successful and well-known as she is today. Long before she was a lawyer, working mom, and First Lady, she was Michelle Robinson. Growing up in the Chicago south side, her loves included learning, jazz music, and Stevie Wonder long before she met Barack. ",
+    "bookName": "Tej",
+    "authorName": "Tej",
+    "availableCount": 10,
+    "id": 6
+  },
+  {
+    "bookName": "gerg",
+    "authorName": "adfg",
+    "availableCount": 44,
+    "discription": "wwafasdfsaddvvdv",
+    "id": 7
+  }
+]
